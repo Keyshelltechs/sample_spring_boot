@@ -4,5 +4,4 @@ This repo is used for some demo purpose and educational use only, There is no me
 
 # Technologies
 * Java - Spring Boot
-* Jenkins
 * Apache Maven
